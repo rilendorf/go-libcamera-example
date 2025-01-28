@@ -1,3 +1,3 @@
-module github.com/DerZombiiie/go-libcamera-example
+module github.com/rilendorf/go-libcamera-example
 
 go 1.19

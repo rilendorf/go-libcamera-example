@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/DerZombiiie/go-libcamera-example/collector"
+	"github.com/rilendorf/go-libcamera-example/collector"
 
 	"bytes"
 	"fmt"
